@@ -1,63 +1,57 @@
-*{
+* {
     background-color: antiquewhite;
-     font-family: "Roboto", serif;
+    font-family: "Roboto", serif;
     font-weight: 500;
     font-style: normal;
 }
-header{
+header {
     background-color: #333;
-    justify-content: center;display: flex;
+    justify-content: center;
+    display: flex;
     align-items: center;
     border-radius: 18px;
     width: 70%;
     color: white;
     margin-left: 15%;
 }
-img{
+img {
     background-color: transparent;
     max-width: 100%;
     margin-left: -20%;
 }
-h1{
+h1, p {
     background-color: transparent;
 }
-p{
-    background-color: transparent;
-}
-.p1{
+.p1 {
     margin-top: 130px;
     margin-left: -90px;
 }
-section{
+section {
     background-color: #333;
     width: 500px;
     border-radius: 18px;
     margin-left: 35%;
-    
 }
-h2{
+h2 {
     background-color: transparent;
     color: white;
     margin-top: 50px;
     margin-left: 20px;
 }
-.section-preparation-time{
+.section-preparation-time {
     width: 500px;
     height: 150px;
 }
-li{
+li {
     color: white;
     background-color: transparent;
 }
-ol{
+ol, ul {
     background-color: transparent;
 }
-ul{
-    background-color: transparent;
-}
-p{
+p {
     color: white;
 }
-span{
+span {
     background-color: transparent;
 }
